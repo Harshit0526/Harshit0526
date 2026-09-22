@@ -4,148 +4,153 @@
 
 ### Java & Spring Boot Developer
 
-I build REST APIs and practical full-stack web applications with Java, Spring Boot, MySQL, JavaScript and React.
+Java Backend Developer&nbsp;|&nbsp;Spring Boot&nbsp;|&nbsp;REST APIs&nbsp;|&nbsp;MySQL&nbsp;|&nbsp;React
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pied-alpha-62.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-srivastav-28b76a382/)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsrivast1599@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit0526)
-[![Resume](https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
+Final-year B.Tech Computer Science student focused on Java backend development.
+I build REST APIs and full-stack web applications using Java, Spring Boot, MySQL, JavaScript and React.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-060b18?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pied-alpha-62.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-srivastav-28b76a382/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit0526)
+[![Resume](https://img.shields.io/badge/Resume-2E2E2E?style=for-the-badge&logo=readdotcv&logoColor=white)](https://portfolio-pied-alpha-62.vercel.app/assets/HarshitResume.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsrivast1599@gmail.com)
 
 </div>
 
----
+<br>
 
 ## About Me
 
-I'm a final-year **B.Tech Computer Science and Engineering student** at **Dr. A. P. J. Abdul Kalam Technical University (AKTU)**, focused on Java backend development.
+I'm a final-year **B.Tech Computer Science & Engineering** student focused on **Java backend development**.
 
-I build REST APIs and full-stack web applications with **Java**, **Spring Boot** and **MySQL**, using object-oriented design, MVC architecture and relational databases. On the frontend, I use **HTML, CSS, JavaScript and React** to create the interfaces that sit on top of those services.
+- 🔧 I build REST APIs and web applications with **Java** and **Spring Boot**
+- 🏗️ I design around **OOP principles** and the **MVC architecture**
+- 🗄️ I connect services to **MySQL** relational databases
+- 🎨 On the front end, I work with **HTML, CSS, JavaScript and React**
+- 🚀 My main project, **Viastastore**, is a full-stack e-commerce app with authentication, a cart, order management and an admin dashboard
+- 📍 Based in Lucknow, Uttar Pradesh, India — open to **Java Developer** and **Spring Boot Developer** roles
 
----
+<br>
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend
+**Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111111?style=flat-square&logo=springboot&logoColor=6DB33F)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-111111?style=flat-square&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-111111?style=flat-square&logoColor=white)
-![CRUD](https://img.shields.io/badge/CRUD-111111?style=flat-square&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-4B4B4B?style=flat-square)
+![CRUD](https://img.shields.io/badge/CRUD-4B4B4B?style=flat-square)
 
-### Frontend
+**Frontend**
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Database and Tools
+**Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-111111?style=flat-square&logo=eclipseide&logoColor=2C2255)
-![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Core Concepts
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Core Concepts**
 
 `Object-Oriented Programming` · `Problem Solving` · `MVC Architecture` · `Database Integration`
 
----
+<br>
 
 ## Featured Project
 
-### [Viastastore](https://github.com/Harshit0526/Viastastore)
+### 🛍️ Viastastore
 
-Full-stack e-commerce web application built with **Java, Spring Boot, MySQL, HTML, CSS and JavaScript**.
-
-**Features**
+Full-stack e-commerce web application built with Java, Spring Boot, MySQL, HTML, CSS and JavaScript.
 
 - Product browsing
 - User authentication
 - Shopping cart
 - Order management
-- Admin dashboard
-- Product and category management
-- Database integration
-- REST APIs
+- Admin dashboard — product & category management
+- MySQL database integration
+- REST APIs for all core operations
 
-**Tech:** `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `HTML` · `CSS` · `JavaScript`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit0526/Viastastore)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-6DB33F?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harshit0526/Viastastore)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Unavailable-555555?style=flat-square)](#)
 
-> Live demo link will be added when available.
-
----
+<br>
 
 ## Other Projects
 
-Use the template below to add additional portfolio projects without changing the README structure.
+> More projects will be added here as they're built.
 
-<!--
 ### Project Name
 
 Short one-line description.
 
-**Tech:** `Java` · `Spring Boot` · `MySQL` · `React`
+**Tech:** Java · Spring Boot · MySQL · React
 
-**Features**
-
+**Features:**
 - Feature 1
 - Feature 2
 - Feature 3
 
-[Source Code](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_LIVE_DEMO_URL)
--->
+`[Source Code]` `[Live Demo]`
 
----
+<br>
 
 ## Currently Learning
 
-- Advanced Java and Spring Boot
-- Spring Security and JWT authentication
-- REST API development
-- Data Structures and Algorithms
-- SQL
-- System design fundamentals
-- Full-stack development
-- Open source contribution
+`Advanced Java` · `Spring Boot` · `Spring Security` · `JWT Authentication` · `REST API Development` · `Data Structures & Algorithms` · `SQL` · `System Design Fundamentals` · `Full-Stack Development` · `Open Source Contribution`
 
----
+<br>
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshit0526&show_icons=true&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F&text_color=808080" alt="Harshit Srivastav's GitHub statistics" height="165">
-<img src="https://github-readme-streak-stats.demolab.com?user=Harshit0526&hide_border=true&background=00000000&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="Harshit Srivastav's GitHub contribution streak" height="165">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit0526&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit0526&layout=compact&hide_border=true&bg_color=00000000&title_color=6DB33F&text_color=808080" alt="Harshit Srivastav's most used programming languages" height="165">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshit0526&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit0526&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
----
+> Stats are generated live by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) — no manually entered numbers.
+
+<br>
 
 ## Developer Profile
 
 | | |
 |---|---|
 | **Role** | Java / Spring Boot Developer |
-| **Education** | B.Tech CSE · AKTU · Expected August 2027 |
+| **Education** | B.Tech CSE, AKTU (Expected Aug 2027) |
 | **Core Stack** | Java · Spring Boot · MySQL · React |
 | **Location** | Lucknow, Uttar Pradesh, India |
 | **Focus** | Backend Development · REST APIs · Full-Stack Development |
 
----
+<br>
 
 ## What I'm Looking For
 
@@ -157,24 +162,16 @@ I'm currently interested in opportunities related to:
 - SDE-1 / Software Development roles
 - Full-stack development
 
----
+<br>
 
 ## Let's Connect
 
-- **GitHub:** [github.com/Harshit0526](https://github.com/Harshit0526)
-- **LinkedIn:** [linkedin.com/in/harshit-srivastav-28b76a382](https://linkedin.com/in/harshit-srivastav-28b76a382/)
-- **Portfolio:** [portfolio-pied-alpha-62.vercel.app](https://portfolio-pied-alpha-62.vercel.app/)
-- **Email:** [harshitsrivast1599@gmail.com](mailto:harshitsrivast1599@gmail.com)
-- **Resume:** `Add your public resume URL here`
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit0526)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-srivastav-28b76a382/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-060b18?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pied-alpha-62.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsrivast1599@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-2E2E2E?style=for-the-badge&logo=readdotcv&logoColor=white)](https://portfolio-pied-alpha-62.vercel.app/assets/HarshitResume.pdf)
 
-## How to Publish This Profile README
-
-1. Sign in to [GitHub](https://github.com/Harshit0526).
-2. Create a **new public repository** named exactly `Harshit0526`.
-3. Keep the repository name identical to your GitHub username and initialize it with a `README.md`.
-4. Replace the generated file with this README content and commit the change to the default branch.
-5. Replace the two resume placeholders with your public resume URL when it is ready.
-6. Keep the `Viastastore` source-code link. Add a live demo URL only after the project is deployed.
-
+</div>
