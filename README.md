@@ -35,9 +35,9 @@
 <td align="center">
 <br>
 
-Computer Science & Engineering student focused on **Java backend and full-stack development** — building applications with clear backend logic, RESTful APIs, relational databases, and maintainable structure.
+Final-year B.Tech Computer Science & Engineering student and **Java Spring Boot developer** who built **Viastastore**, a full-stack e-commerce web application with Razorpay payments, email OTP verification and an admin panel.
 
-Particularly interested in **Spring Boot, API development, database integration, authentication, and scalable architecture.**
+Strong foundation in **OOP, DBMS and data structures**. Seeking an entry-level **Software Development Engineer (SDE), Java Developer or Spring Boot Developer** role.
 
 <br>
 </td>
@@ -52,16 +52,62 @@ Particularly interested in **Spring Boot, API development, database integration,
 
 <img src="https://img.shields.io/badge/Java-0D0221?style=flat-square&logo=openjdk&logoColor=00F5FF&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/Spring_Boot-0D0221?style=flat-square&logo=springboot&logoColor=39FF14&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Spring_MVC-0D0221?style=flat-square&logo=spring&logoColor=39FF14&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/REST_APIs-0D0221?style=flat-square&logo=fastapi&logoColor=FF10F0&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/MySQL-0D0221?style=flat-square&logo=mysql&logoColor=00F5FF&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Maven-0D0221?style=flat-square&logo=apachemaven&logoColor=FF10F0&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Thymeleaf-0D0221?style=flat-square&logo=thymeleaf&logoColor=39FF14&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/React-0D0221?style=flat-square&logo=react&logoColor=00F5FF&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/JavaScript-0D0221?style=flat-square&logo=javascript&logoColor=FCEE09&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/HTML5-0D0221?style=flat-square&logo=html5&logoColor=FF6B35&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/CSS3-0D0221?style=flat-square&logo=css3&logoColor=00F5FF&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Bootstrap-0D0221?style=flat-square&logo=bootstrap&logoColor=FF10F0&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/Git-0D0221?style=flat-square&logo=git&logoColor=FF10F0&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/GitHub-0D0221?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Eclipse-0D0221?style=flat-square&logo=eclipseide&logoColor=00F5FF&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/VS_Code-0D0221?style=flat-square&logo=visualstudiocode&logoColor=00F5FF&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Vercel-0D0221?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=0D0221" />
+
+<br><br>
+
+<sub><b>Core subjects:</b> Data Structures · OOP · DBMS · Operating Systems · Computer Networks</sub>
 
 </div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+<br>
+
+**Education**
+
+**Bansal Institute of Engineering & Technology, Lucknow**
+B.Tech in Computer Science & Engineering
+CGPA: **8.35 / 10** (up to 6th semester)
+Expected August 2027
+
+<br>
+</td>
+
+<td width="50%" valign="top">
+<br>
+
+**Experience**
+
+**Summer Trainee, Java Spring Boot**
+Techpile Technology Pvt. Ltd. · Jun 2026 – Jul 2026
+
+* Completed an industry-oriented Java Spring Boot training and earned an **A++** grade (Certificate ID: TechpileST260932)
+* Applied layered architecture (controllers, repositories, DTOs, entity models) while building the training project, Viastastore
+
+<br>
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -80,17 +126,26 @@ Particularly interested in **Spring Boot, API development, database integration,
 
 <br>
 
-A clothing e-commerce application built on a Java and Spring Boot backend with MySQL persistence — user auth, product & category management, cart, orders, and an admin dashboard.
+A clothing e-commerce application built on a Java and Spring Boot backend with MySQL persistence: user registration and login, product and category management, wishlist, cart, checkout, order tracking, and an admin dashboard.
+
+* Product browsing, wishlist, cart, checkout and order tracking
+* **Razorpay** payments with server-side signature verification
+* **JavaMail-based email OTP** verification for registration and password change
+* Admin panel to manage users, products, categories, orders and enquiries
+* **8 JPA entities** on MySQL with about **65 endpoints**
 
 <div align="center">
 
-`Frontend` → `Spring Boot REST APIs` → `Service Layer` → `MySQL`
+`Thymeleaf Views` → `Spring MVC Controllers` → `Spring Data JPA` → `MySQL`
 
 <br>
 
 <img src="https://img.shields.io/badge/Java-0D0221?style=flat-square&logo=openjdk&logoColor=00F5FF&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/Spring_Boot-0D0221?style=flat-square&logo=springboot&logoColor=39FF14&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-0D0221?style=flat-square&logo=spring&logoColor=39FF14&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Thymeleaf-0D0221?style=flat-square&logo=thymeleaf&logoColor=39FF14&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/MySQL-0D0221?style=flat-square&logo=mysql&logoColor=00F5FF&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Razorpay-0D0221?style=flat-square&logo=razorpay&logoColor=00F5FF&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/JavaScript-0D0221?style=flat-square&logo=javascript&logoColor=FCEE09&labelColor=0D0221" />
 
 <br><br>
