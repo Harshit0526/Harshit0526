@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF&color=0D0221&labelColor=0D0221" alt="LinkedIn"/>
 </a>
 
-<a href="https://portfolio-pied-alpha-62.vercel.app/assets/HarshitResume.pdf">
+<a href="https://portfolio-pied-alpha-62.vercel.app/assets/Harshit_Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=FF10F0&color=0D0221&labelColor=0D0221" alt="Resume"/>
 </a>
 
-<a href="mailto:harshitsriv1599@gmail.com">
+<a href="mailto:harshitsrivast0526@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&color=0D0221&labelColor=0D0221" alt="Email"/>
 </a>
 
